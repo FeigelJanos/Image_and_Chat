@@ -39,5 +39,5 @@ Adatbázis elemei:
    - termék
     -id
     -megnevezés
-    -
+    -anyag
 
