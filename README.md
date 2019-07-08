@@ -36,8 +36,15 @@ Adatbázis elemei:
   - Gépek
    - projektek
   - termékcsoport
+  
    - termék
     -id
     -megnevezés
     -anyag
 
+
+ Stretch Goals:
+  -Projektgazda felhasználó
+  -Termékcsoportok
+  -Projekt archiválás
+  -Céges és projekt szintu chat
