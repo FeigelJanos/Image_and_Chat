@@ -41,3 +41,9 @@ Adatbázis elemei:
     -megnevezés
     -anyag
 
+Stretch Goals:
+
+-Projektgazda felhasználói jogkör
+-Projektek archiválhatósága
+-Nem projekt szintu chatszobák
+-Rajz eszközök a képnél
